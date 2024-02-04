@@ -8,7 +8,7 @@
 * Christopher Diggins 
 * Elia Waefle 
 * Helena Krogmann 
-* Mohammed Khazna 
+* Mohamad Khazna 
 * Olga Poletkina 
 * Otmane Salih 
 
